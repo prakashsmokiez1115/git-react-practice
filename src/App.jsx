@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      <p>Learning Git and GitHub</p>
+      <h1>Feature Navbar</h1>
     </div>
   )
 }
