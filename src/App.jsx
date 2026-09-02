@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      <h1>Main Version</h1>
+      <h1>Feature Version</h1>
     </div>
   )
 }
