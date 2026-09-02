@@ -4,6 +4,7 @@ const App = () => {
   return (
     <div>
       <h1>Feature Version</h1>
+      <p>Footer Feature</p>
     </div>
   )
 }
