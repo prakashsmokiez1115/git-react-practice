@@ -3,7 +3,8 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      <p>Learning Git and GitHub</p>
+      <h1>Feature Version</h1>
+      <p>Footer Feature</p>
     </div>
   )
 }
